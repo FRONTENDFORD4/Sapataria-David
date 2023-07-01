@@ -1,42 +1,117 @@
-.page.title {
-    /*SHORT AND MARGENS*/
-    color: red ;
-    margin: 40px auto 5px;  
-    margin-bottom: 10px;
-    width: 80%;
-    font-size: 24pt;
-    font-weight: bold;
-    color:#8E3200;
-
-    
-
-   }
-
-
-   .page-subtitle {
-    
-    /*margin: Spx auto 25px;*/
-    Margin-top: 5px;
-    margin-right: auto;
-    margin-left: auto;
-    margin-bottom: 25px;
+.page-title {
+   /*SHORTAND MARGENS*/
+    margin: 40px auto 5px;
     padding-left: 10px;
     width: 80%;
-    font-size: 10px;
-    color:#8E3200;
-       
-     }
+    font-size:30pt;
+    font-weight: bold;
+    color: #8e3200;
+    
 
-     .article-title{
+}
+    
+h2 {
+
+   /*margin: 5px* auto 25px;*/
+   margin-top: 5px;
+   margin-right: auto;
+   margin-left: auto;
+   margin-bottom: 25px;
+   padding-left: 10px;
+   width: 80%;
+   font-size: 10px;
+   font-size: 15px;
+   color: #8E3200;
+   
+}
 
 
-     }
+article{
+   width: 80%;
+   margin: 40px 0 5px;
+}
+p{
 
-     main{
+   margin-top: 20px;
+}
+
+.article-title{
+   width: 80%;
+   margin: 40px 0 5px;
+}
+
+p{
+   margin-top: 20px;
+}
+
+main{
+   
+   width: 80%;
+   margin: 40px auto 5px;
+   padding-left: 10px;
+}
+
+.article-title{
+
+   /*SHOTHAND MARGENS*/
+   margin: 40px auto 5px;
+   font-size: 22pt;
+   color: #be5a21;
+}
+
+.titulo-bolsa{
+   /*SHOTHAND MARGENS*/
+   margin: 40px auto 5px;
+   font-size: 18pt;
+   font-weight: bold;
+   color: #8e3200;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   text-align: center;
+   background-color: burlywood;
+
+}
+
+.titulo-cinto{
+   /*SHOTHAND MARGENS*/
+   margin: 40px auto 5px;
+   font-size: 18pt;
+   font-weight: bold;
+   color: #8e3200;
+   padding: 20px;
+   padding-bottom: 20px;
+   text-align: center;
+   background-color: burlywood;
+
+}
+.titulo-sapatos{
+    /*SHOTHAND MARGENS*/
+    margin: 40px auto 5px;
+    font-size: 18pt;
+    font-weight: bold;
+    color: #8e3200;
+    padding: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: burlywood;
+}
+
+.imagem-produto{
+
+   width: 370px;
+
+}
+footer{
+   /*SHOTHAND MARGENS*/
+   margin: 40px auto 5px;
+    font-size: 13pt;
+    font-weight: bold;
+    color: #8e3200;
+    padding: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: burlywood;
+
+}
 
 
-        width: 80%;
-        margin: 40px auto 5px;
-        padding-left: 10px;
-
-     }
